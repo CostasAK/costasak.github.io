@@ -203,6 +203,7 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
+  - README_bj.md
   - screenshot.png
   - docs/
 
