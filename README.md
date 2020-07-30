@@ -1,8 +1,8 @@
 ## Hello, I'm Costas 👋
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fcostas.kokke.eu&label=Website)](https://costas.kokke.eu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-costaskokke-0077B5?logo=linkedin)](https://www.linkedin.com/in/costaskokke/)
-[![Follow](https://img.shields.io/github/followers/CostasAK.svg?label=Follow&logo=github)](https://github.com/CostasAK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-costaskokke-0077B5?logo=linkedin)](https://www.linkedin.com/in/costaskokke/)<!--
+[![Follow](https://img.shields.io/github/followers/CostasAK.svg?label=Follow&logo=github)](https://github.com/CostasAK)-->
 ![GitLab](https://img.shields.io/badge/GitLab-CostasAK-FCA121?logo=GitLab)
 
 I'm currently researching various wireless communication technologies as a scientist / innovator at the [Netherlands Organisation for Applied Scientific Research (TNO)](https://www.tno.nl/en/).
