@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-costaskokke-0077B5?logo=linkedin)](https://www.linkedin.com/in/costaskokke/)<!--
 [![Follow](https://img.shields.io/github/followers/CostasAK.svg?label=Follow&logo=github)](https://github.com/CostasAK)-->
 ![GitLab](https://img.shields.io/badge/GitLab-CostasAK-FCA121?logo=GitLab)
+[![Ko-fi](https://img.shields.io/badge/ko--fi-costas-F16061?logo=ko-fi)](https://ko-fi.com/costas)
 
 I'm currently researching various wireless communication technologies as a scientist / innovator at the [Netherlands Organisation for Applied Scientific Research (TNO)](https://www.tno.nl/en/).
 
