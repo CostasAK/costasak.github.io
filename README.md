@@ -10,7 +10,7 @@
 ![GitLab](https://img.shields.io/badge/GitLab-CostasAK-FCA121?logo=GitLab)
 [![Ko-fi](https://img.shields.io/badge/ko--fi-costas-F16061?logo=ko-fi)](https://ko-fi.com/costas)
 
-I'm currently researching various wireless communication technologies as a scientist / innovator at the [Netherlands Organisation for Applied Scientific Research (TNO)](https://www.tno.nl/en/).
+I'm currently researching adaptive radar technologies and optimised resource allocation as a doctoral candidate at the [Delft University of Technology](https://www.tudelft.nl/en/).
 
 In my spare time I work on guitar effect pedals and far too elaborate spreadsheets.
 <!--
