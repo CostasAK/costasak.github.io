@@ -10,7 +10,7 @@
 ![GitLab](https://img.shields.io/badge/GitLab-CostasAK-FCA121?logo=GitLab)
 [![Ko-fi](https://img.shields.io/badge/ko--fi-costas-F16061?logo=ko-fi)](https://ko-fi.com/costas)
 
-I'm currently researching adaptive radar technologies and optimised resource allocation as a doctoral candidate at the [Delft University of Technology](https://www.tudelft.nl/en/).
+I'm currently researching adaptive radar technologies and optimised resource allocation as a doctoral student at the [Delft University of Technology](https://www.tudelft.nl/en/) in cooperation with the [Netherlands Organisation for applied scientific research](https://www.tno.nl/en/).
 
 In my spare time I work on guitar effect pedals and far too elaborate spreadsheets.
 <!--
